@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
-
+//ejercicio 1 realizado por Ivan Palacios
 @SpringBootApplication
 @EnableFeignClients
 @EnableDiscoveryClient
